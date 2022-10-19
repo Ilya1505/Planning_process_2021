@@ -1,0 +1,20 @@
+﻿Сборка начата 03.06.2022 13:27:51.
+     1>Проект "D:\Сохранено\Desktop\pi92\6 семестр\Вычислительная математика\лр8\Planning_process\Planning_process\Planning_process.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib My_queue.cpp
+         My_queue.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Сохранено\Desktop\pi92\6 семестр\Вычислительная математика\лр8\Planning_process\Debug\Planning_process.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Planning_process.Main_form.resources /ASSEMBLYRESOURCE:Debug\Planning_process.Queue_form.resources /ASSEMBLYRESOURCE:Debug\Planning_process.Start_form.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Сохранено\Desktop\pi92\6 семестр\Вычислительная математика\лр8\Planning_process\Debug\Planning_process.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Main_form.obj
+         Debug\My_queue.obj
+         Debug\Processor.obj
+         Debug\Queue_form.obj
+         Debug\Start_form.obj
+         Debug\System.obj
+         Debug\Task.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Planning_process.vcxproj -> D:\Сохранено\Desktop\pi92\6 семестр\Вычислительная математика\лр8\Planning_process\Debug\Planning_process.exe
+     1>Сборка проекта "D:\Сохранено\Desktop\pi92\6 семестр\Вычислительная математика\лр8\Planning_process\Planning_process\Planning_process.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:09.14
